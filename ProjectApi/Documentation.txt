@@ -1,0 +1,25 @@
+﻿
+
+GET USERS
+Search All            -- https://localhost:44382/api/users
+Search by Lastname    --https://localhost:44382/api/users?lname=search
+Search by Firstname   --https://localhost:44382/api/users?fname=search
+Search by Age         --https://localhost:44382/api/users?age=search
+Search by Address     --https://localhost:44382/api/users?address=search
+Search by Intrests    --https://localhost:44382/api/users?intrests=search
+
+INSERT USER
+Url    -- https://localhost:44382/api/users
+Method -- POST
+
+UPDATE USER
+Url    -- https://localhost:44382/api/users
+Method -- PUT
+
+DELETE USER
+Url    -- https://localhost:44382/api/users
+Method -- DELETE
+
+
+github url
+https://github.com/sravanthiveldurthy/ProjectApi

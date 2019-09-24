@@ -1,0 +1,28 @@
+﻿Business Requirements
+
+• Provide a REST endpoint that takes a search input then returns a list of people whose 
+first or last name matches what the input
+(including at least name, address, age, and interests).
+
+• Seed the application with some users.
+
+• Provide a REST endpoint that allows addition of new users.
+
+• Provide documentation to interact with the REST endpoints.
+
+Technical Requirements
+
+• Use Entity Framework Code First to talk to the database.
+
+• Add automated testing for appropriate parts of the application.
+
+Extra Credit Ideas
+
+• Write PowerShell scripts to add or search for particular users.
+
+• Simulate latency in the API call.
+
+
+
+  Preference is that you do your development in GitHub, so that we can clone your solution directly from there.
+  Please ensure that cloning the repository, then running it directly (without any additional setup steps) will start the app properly.     
